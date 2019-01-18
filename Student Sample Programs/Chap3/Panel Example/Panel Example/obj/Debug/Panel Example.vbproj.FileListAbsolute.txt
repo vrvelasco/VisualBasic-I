@@ -1,0 +1,2 @@
+C:\Users\Tony\AppData\Local\Temporary Projects\Panel Example\bin\Debug\Panel Example.exe.config
+C:\Users\Tony\Documents\Books\VB\VB 7th Edition (future)\Student Sample Programs\Chap3\Panel Example\Panel Example\bin\Debug\Panel Example.exe.config
