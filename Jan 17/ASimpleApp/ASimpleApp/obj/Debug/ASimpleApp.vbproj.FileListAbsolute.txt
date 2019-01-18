@@ -1,0 +1,22 @@
+C:\Users\student\AppData\Local\Temporary Projects\ASimpleApp\bin\Debug\ASimpleApp.exe.config
+C:\Users\student\AppData\Local\Temporary Projects\ASimpleApp\bin\Debug\ASimpleApp.exe
+C:\Users\student\AppData\Local\Temporary Projects\ASimpleApp\bin\Debug\ASimpleApp.pdb
+C:\Users\student\AppData\Local\Temporary Projects\ASimpleApp\bin\Debug\ASimpleApp.xml
+C:\Users\student\AppData\Local\Temporary Projects\ASimpleApp\obj\Debug\ASimpleApp.vbprojResolveAssemblyReference.cache
+C:\Users\student\AppData\Local\Temporary Projects\ASimpleApp\obj\Debug\ASimpleApp.Form1.resources
+C:\Users\student\AppData\Local\Temporary Projects\ASimpleApp\obj\Debug\ASimpleApp.Resources.resources
+C:\Users\student\AppData\Local\Temporary Projects\ASimpleApp\obj\Debug\ASimpleApp.vbproj.GenerateResource.Cache
+C:\Users\student\AppData\Local\Temporary Projects\ASimpleApp\obj\Debug\ASimpleApp.exe
+C:\Users\student\AppData\Local\Temporary Projects\ASimpleApp\obj\Debug\ASimpleApp.xml
+C:\Users\student\AppData\Local\Temporary Projects\ASimpleApp\obj\Debug\ASimpleApp.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 17\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.exe.config
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 17\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 17\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 17\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 17\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.vbprojResolveAssemblyReference.cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 17\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.Form1.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 17\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.Resources.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 17\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.vbproj.GenerateResource.Cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 17\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 17\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 17\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.pdb
