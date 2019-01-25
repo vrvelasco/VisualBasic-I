@@ -1,0 +1,10 @@
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 24\PriceCalc\PriceCalc\bin\Debug\PriceCalc.exe.config
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 24\PriceCalc\PriceCalc\bin\Debug\PriceCalc.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 24\PriceCalc\PriceCalc\bin\Debug\PriceCalc.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 24\PriceCalc\PriceCalc\bin\Debug\PriceCalc.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 24\PriceCalc\PriceCalc\obj\Debug\PriceCalc.vbprojResolveAssemblyReference.cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 24\PriceCalc\PriceCalc\obj\Debug\PriceCalc.Resources.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 24\PriceCalc\PriceCalc\obj\Debug\PriceCalc.vbproj.GenerateResource.Cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 24\PriceCalc\PriceCalc\obj\Debug\PriceCalc.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 24\PriceCalc\PriceCalc\obj\Debug\PriceCalc.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 24\PriceCalc\PriceCalc\obj\Debug\PriceCalc.pdb
