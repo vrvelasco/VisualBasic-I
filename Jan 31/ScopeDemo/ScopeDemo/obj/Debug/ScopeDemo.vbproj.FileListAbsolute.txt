@@ -1,0 +1,22 @@
+C:\Users\student\AppData\Local\Temporary Projects\ScopeDemo\bin\Debug\ScopeDemo.exe.config
+C:\Users\student\AppData\Local\Temporary Projects\ScopeDemo\bin\Debug\ScopeDemo.exe
+C:\Users\student\AppData\Local\Temporary Projects\ScopeDemo\bin\Debug\ScopeDemo.pdb
+C:\Users\student\AppData\Local\Temporary Projects\ScopeDemo\bin\Debug\ScopeDemo.xml
+C:\Users\student\AppData\Local\Temporary Projects\ScopeDemo\obj\Debug\ScopeDemo.vbprojResolveAssemblyReference.cache
+C:\Users\student\AppData\Local\Temporary Projects\ScopeDemo\obj\Debug\ScopeDemo.Form1.resources
+C:\Users\student\AppData\Local\Temporary Projects\ScopeDemo\obj\Debug\ScopeDemo.Resources.resources
+C:\Users\student\AppData\Local\Temporary Projects\ScopeDemo\obj\Debug\ScopeDemo.vbproj.GenerateResource.Cache
+C:\Users\student\AppData\Local\Temporary Projects\ScopeDemo\obj\Debug\ScopeDemo.exe
+C:\Users\student\AppData\Local\Temporary Projects\ScopeDemo\obj\Debug\ScopeDemo.xml
+C:\Users\student\AppData\Local\Temporary Projects\ScopeDemo\obj\Debug\ScopeDemo.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\ScopeDemo\ScopeDemo\obj\Debug\ScopeDemo.vbprojResolveAssemblyReference.cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\ScopeDemo\ScopeDemo\obj\Debug\ScopeDemo.Form1.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\ScopeDemo\ScopeDemo\obj\Debug\ScopeDemo.Resources.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\ScopeDemo\ScopeDemo\obj\Debug\ScopeDemo.vbproj.GenerateResource.Cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\ScopeDemo\ScopeDemo\obj\Debug\ScopeDemo.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\ScopeDemo\ScopeDemo\obj\Debug\ScopeDemo.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\ScopeDemo\ScopeDemo\obj\Debug\ScopeDemo.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\ScopeDemo\ScopeDemo\bin\Debug\ScopeDemo.exe.config
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\ScopeDemo\ScopeDemo\bin\Debug\ScopeDemo.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\ScopeDemo\ScopeDemo\bin\Debug\ScopeDemo.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\ScopeDemo\ScopeDemo\bin\Debug\ScopeDemo.xml
