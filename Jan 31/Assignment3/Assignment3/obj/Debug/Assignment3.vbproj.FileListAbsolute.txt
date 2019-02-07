@@ -9,3 +9,15 @@ E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\Assignment3\Assignmen
 E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\Assignment3\Assignment3\obj\Debug\Assignment3.exe
 E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\Assignment3\Assignment3\obj\Debug\Assignment3.xml
 E:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\Assignment3\Assignment3\bin\Debug\Assignment3.xml
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\Assignment3\Assignment3\obj\Debug\Assignment3.vbprojAssemblyReference.cache
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\Assignment3\Assignment3\obj\Debug\Assignment3.Form1.resources
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\Assignment3\Assignment3\obj\Debug\Assignment3.Resources.resources
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\Assignment3\Assignment3\obj\Debug\Assignment3.vbproj.GenerateResource.cache
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\Assignment3\Assignment3\obj\Debug\Assignment3.vbproj.CoreCompileInputs.cache
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\Assignment3\Assignment3\obj\Debug\Assignment3.xml
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Jan 31\Assignment3\Assignment3\obj\Debug\Assignment3.pdb

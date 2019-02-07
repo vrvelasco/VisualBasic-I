@@ -29,9 +29,9 @@ Partial Class Form1
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.lblPayment = New System.Windows.Forms.Label()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
+        Me.txtLoanAmount = New System.Windows.Forms.TextBox()
+        Me.txtInterestRate = New System.Windows.Forms.TextBox()
+        Me.txtDuration = New System.Windows.Forms.TextBox()
         Me.lblInterest = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
@@ -74,7 +74,7 @@ Partial Class Form1
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(25, 144)
+        Me.Label4.Location = New System.Drawing.Point(25, 153)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(90, 13)
         Me.Label4.TabIndex = 4
@@ -83,7 +83,7 @@ Partial Class Form1
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(21, 181)
+        Me.Label5.Location = New System.Drawing.Point(21, 186)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(94, 13)
         Me.Label5.TabIndex = 5
@@ -92,40 +92,40 @@ Partial Class Form1
         'lblPayment
         '
         Me.lblPayment.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.lblPayment.Location = New System.Drawing.Point(121, 143)
+        Me.lblPayment.Location = New System.Drawing.Point(121, 148)
         Me.lblPayment.Name = "lblPayment"
         Me.lblPayment.Size = New System.Drawing.Size(100, 23)
         Me.lblPayment.TabIndex = 6
         Me.lblPayment.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
-        'TextBox1
+        'txtLoanAmount
         '
-        Me.TextBox1.Location = New System.Drawing.Point(121, 12)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox1.TabIndex = 7
-        Me.TextBox1.Text = "18000"
+        Me.txtLoanAmount.Location = New System.Drawing.Point(121, 12)
+        Me.txtLoanAmount.Name = "txtLoanAmount"
+        Me.txtLoanAmount.Size = New System.Drawing.Size(100, 20)
+        Me.txtLoanAmount.TabIndex = 7
+        Me.txtLoanAmount.Text = "18000"
         '
-        'TextBox2
+        'txtInterestRate
         '
-        Me.TextBox2.Location = New System.Drawing.Point(121, 48)
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox2.TabIndex = 8
-        Me.TextBox2.Text = "5.25"
+        Me.txtInterestRate.Location = New System.Drawing.Point(121, 48)
+        Me.txtInterestRate.Name = "txtInterestRate"
+        Me.txtInterestRate.Size = New System.Drawing.Size(100, 20)
+        Me.txtInterestRate.TabIndex = 8
+        Me.txtInterestRate.Text = "5.25"
         '
-        'TextBox3
+        'txtDuration
         '
-        Me.TextBox3.Location = New System.Drawing.Point(121, 84)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(100, 20)
-        Me.TextBox3.TabIndex = 9
-        Me.TextBox3.Text = "60"
+        Me.txtDuration.Location = New System.Drawing.Point(121, 84)
+        Me.txtDuration.Name = "txtDuration"
+        Me.txtDuration.Size = New System.Drawing.Size(100, 20)
+        Me.txtDuration.TabIndex = 9
+        Me.txtDuration.Text = "60"
         '
         'lblInterest
         '
         Me.lblInterest.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.lblInterest.Location = New System.Drawing.Point(121, 176)
+        Me.lblInterest.Location = New System.Drawing.Point(121, 181)
         Me.lblInterest.Name = "lblInterest"
         Me.lblInterest.Size = New System.Drawing.Size(100, 23)
         Me.lblInterest.TabIndex = 10
@@ -135,11 +135,11 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(253, 143)
+        Me.ClientSize = New System.Drawing.Size(240, 211)
         Me.Controls.Add(Me.lblInterest)
-        Me.Controls.Add(Me.TextBox3)
-        Me.Controls.Add(Me.TextBox2)
-        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.txtDuration)
+        Me.Controls.Add(Me.txtInterestRate)
+        Me.Controls.Add(Me.txtLoanAmount)
         Me.Controls.Add(Me.lblPayment)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.Label4)
@@ -163,8 +163,8 @@ Partial Class Form1
     Friend WithEvents Label4 As Label
     Friend WithEvents Label5 As Label
     Friend WithEvents lblPayment As Label
-    Friend WithEvents TextBox1 As TextBox
-    Friend WithEvents TextBox2 As TextBox
-    Friend WithEvents TextBox3 As TextBox
+    Friend WithEvents txtLoanAmount As TextBox
+    Friend WithEvents txtInterestRate As TextBox
+    Friend WithEvents txtDuration As TextBox
     Friend WithEvents lblInterest As Label
 End Class
