@@ -1,0 +1,11 @@
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\TempConvert\TempConvert\bin\Debug\TempConvert.exe.config
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\TempConvert\TempConvert\bin\Debug\TempConvert.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\TempConvert\TempConvert\bin\Debug\TempConvert.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\TempConvert\TempConvert\bin\Debug\TempConvert.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\TempConvert\TempConvert\obj\Debug\TempConvert.vbprojResolveAssemblyReference.cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\TempConvert\TempConvert\obj\Debug\TempConvert.Form1.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\TempConvert\TempConvert\obj\Debug\TempConvert.Resources.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\TempConvert\TempConvert\obj\Debug\TempConvert.vbproj.GenerateResource.Cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\TempConvert\TempConvert\obj\Debug\TempConvert.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\TempConvert\TempConvert\obj\Debug\TempConvert.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\TempConvert\TempConvert\obj\Debug\TempConvert.pdb

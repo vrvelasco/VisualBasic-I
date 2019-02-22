@@ -1,0 +1,73 @@
+C:\Users\Tim\AppData\Local\Temporary Projects\Chocolates\bin\Debug\Chocolates.exe.config
+C:\Users\Tim\AppData\Local\Temporary Projects\Chocolates\bin\Debug\Chocolates.exe
+C:\Users\Tim\AppData\Local\Temporary Projects\Chocolates\bin\Debug\Chocolates.pdb
+C:\Users\Tim\AppData\Local\Temporary Projects\Chocolates\bin\Debug\Chocolates.xml
+C:\Users\Tim\AppData\Local\Temporary Projects\Chocolates\obj\Debug\Chocolates.Form1.resources
+C:\Users\Tim\AppData\Local\Temporary Projects\Chocolates\obj\Debug\Chocolates.Resources.resources
+C:\Users\Tim\AppData\Local\Temporary Projects\Chocolates\obj\Debug\Chocolates.vbproj.GenerateResource.Cache
+C:\Users\Tim\AppData\Local\Temporary Projects\Chocolates\obj\Debug\Chocolates.exe
+C:\Users\Tim\AppData\Local\Temporary Projects\Chocolates\obj\Debug\Chocolates.xml
+C:\Users\Tim\AppData\Local\Temporary Projects\Chocolates\obj\Debug\Chocolates.pdb
+C:\Users\Tim\Documents\scratch\Chocolates\bin\Debug\Chocolates.exe.config
+C:\Users\Tim\Documents\scratch\Chocolates\obj\Debug\Chocolates.exe
+C:\Users\Tim\Documents\scratch\Chocolates\obj\Debug\Chocolates.xml
+C:\Users\Tim\Documents\scratch\Chocolates\obj\Debug\Chocolates.pdb
+D:\1141\CIS184-002_1141\exams\Chocolates\bin\Debug\Chocolates.exe.config
+D:\1141\CIS184-002_1141\exams\Chocolates\obj\Debug\Chocolates.exe
+D:\1141\CIS184-002_1141\exams\Chocolates\obj\Debug\Chocolates.xml
+D:\1141\CIS184-002_1141\exams\Chocolates\obj\Debug\Chocolates.pdb
+E:\1141\CIS184-002_1141\exams\Chocolates\bin\Debug\Chocolates.exe.config
+E:\1141\CIS184-002_1141\exams\Chocolates\obj\Debug\Chocolates.exe
+E:\1141\CIS184-002_1141\exams\Chocolates\obj\Debug\Chocolates.xml
+E:\1141\CIS184-002_1141\exams\Chocolates\obj\Debug\Chocolates.pdb
+E:\1141\CIS184-002_1141\exams\Chocolates\bin\Debug\Chocolates.exe
+E:\1141\CIS184-002_1141\exams\Chocolates\bin\Debug\Chocolates.pdb
+E:\1141\CIS184-002_1141\exams\Chocolates\bin\Debug\Chocolates.xml
+E:\1141\CIS184-002_1141\exams\Chocolates\obj\Debug\Chocolates.Form1.resources
+E:\1141\CIS184-002_1141\exams\Chocolates\obj\Debug\Chocolates.Resources.resources
+E:\1141\CIS184-002_1141\exams\Chocolates\obj\Debug\Chocolates.vbproj.GenerateResource.Cache
+E:\1142\CIS184\exams\Chocolates\bin\Debug\Chocolates.exe.config
+E:\1142\CIS184\exams\Chocolates\obj\Debug\Chocolates.exe
+E:\1142\CIS184\exams\Chocolates\obj\Debug\Chocolates.xml
+E:\1142\CIS184\exams\Chocolates\obj\Debug\Chocolates.pdb
+E:\1142\CIS184\exams\Chocolates\bin\Debug\Chocolates.exe
+E:\1142\CIS184\exams\Chocolates\bin\Debug\Chocolates.pdb
+E:\1142\CIS184\exams\Chocolates\bin\Debug\Chocolates.xml
+E:\1142\CIS184\exams\Chocolates\obj\Debug\Chocolates.Form1.resources
+E:\1142\CIS184\exams\Chocolates\obj\Debug\Chocolates.Resources.resources
+E:\1142\CIS184\exams\Chocolates\obj\Debug\Chocolates.vbproj.GenerateResource.Cache
+D:\1142\CIS184\exams\Chocolates\bin\Debug\Chocolates.exe.config
+D:\1142\CIS184\exams\Chocolates\obj\Debug\Chocolates.exe
+D:\1142\CIS184\exams\Chocolates\obj\Debug\Chocolates.xml
+D:\1142\CIS184\exams\Chocolates\obj\Debug\Chocolates.pdb
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Exam1_1171\bin\Debug\Chocolates.exe.config
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Exam1_1171\obj\Debug\Chocolates.exe
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Exam1_1171\obj\Debug\Chocolates.xml
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Exam1_1171\obj\Debug\Chocolates.pdb
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Exam1_1171\bin\Debug\Chocolates.exe
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Exam1_1171\bin\Debug\Chocolates.pdb
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Exam1_1171\bin\Debug\Chocolates.xml
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Exam1_1171\obj\Debug\Chocolates.Form1.resources
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Exam1_1171\obj\Debug\Chocolates.Resources.resources
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Exam1_1171\obj\Debug\Chocolates.vbproj.GenerateResource.Cache
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Chocolates\bin\Debug\Chocolates.exe.config
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Chocolates\obj\Debug\Chocolates.exe
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Chocolates\obj\Debug\Chocolates.xml
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Chocolates\obj\Debug\Chocolates.pdb
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Chocolates\bin\Debug\Chocolates.exe
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Chocolates\bin\Debug\Chocolates.pdb
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Chocolates\bin\Debug\Chocolates.xml
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Chocolates\obj\Debug\Chocolates.Form1.resources
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Chocolates\obj\Debug\Chocolates.Resources.resources
+C:\Users\Tim\SkyDrive\1171\CIS184\exams\Chocolates\obj\Debug\Chocolates.vbproj.GenerateResource.Cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 14\chocolates\bin\Debug\Chocolates.exe.config
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 14\chocolates\bin\Debug\Chocolates.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 14\chocolates\bin\Debug\Chocolates.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 14\chocolates\bin\Debug\Chocolates.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 14\chocolates\obj\Debug\Chocolates.vbprojResolveAssemblyReference.cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 14\chocolates\obj\Debug\Chocolates.Form1.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 14\chocolates\obj\Debug\Chocolates.Resources.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 14\chocolates\obj\Debug\Chocolates.vbproj.GenerateResource.Cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 14\chocolates\obj\Debug\Chocolates.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 14\chocolates\obj\Debug\Chocolates.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 14\chocolates\obj\Debug\Chocolates.pdb
