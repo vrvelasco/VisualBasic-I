@@ -1,0 +1,16 @@
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\SemesterGrade\SemesterGrade\obj\Debug\SemesterGrade.vbprojResolveAssemblyReference.cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\SemesterGrade\SemesterGrade\obj\Debug\SemesterGrade.Form1.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\SemesterGrade\SemesterGrade\obj\Debug\SemesterGrade.Resources.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\SemesterGrade\SemesterGrade\obj\Debug\SemesterGrade.vbproj.GenerateResource.Cache
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SemesterGrade\SemesterGrade\bin\Debug\SemesterGrade.exe.config
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SemesterGrade\SemesterGrade\bin\Debug\SemesterGrade.exe
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SemesterGrade\SemesterGrade\bin\Debug\SemesterGrade.pdb
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SemesterGrade\SemesterGrade\bin\Debug\SemesterGrade.xml
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SemesterGrade\SemesterGrade\obj\Debug\SemesterGrade.vbprojAssemblyReference.cache
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SemesterGrade\SemesterGrade\obj\Debug\SemesterGrade.Form1.resources
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SemesterGrade\SemesterGrade\obj\Debug\SemesterGrade.Resources.resources
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SemesterGrade\SemesterGrade\obj\Debug\SemesterGrade.vbproj.GenerateResource.cache
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SemesterGrade\SemesterGrade\obj\Debug\SemesterGrade.vbproj.CoreCompileInputs.cache
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SemesterGrade\SemesterGrade\obj\Debug\SemesterGrade.exe
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SemesterGrade\SemesterGrade\obj\Debug\SemesterGrade.xml
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SemesterGrade\SemesterGrade\obj\Debug\SemesterGrade.pdb

@@ -1,4 +1,0 @@
-E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\SemesterGrade\SemesterGrade\obj\Debug\SemesterGrade.vbprojResolveAssemblyReference.cache
-E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\SemesterGrade\SemesterGrade\obj\Debug\SemesterGrade.Form1.resources
-E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\SemesterGrade\SemesterGrade\obj\Debug\SemesterGrade.Resources.resources
-E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 21\SemesterGrade\SemesterGrade\obj\Debug\SemesterGrade.vbproj.GenerateResource.Cache

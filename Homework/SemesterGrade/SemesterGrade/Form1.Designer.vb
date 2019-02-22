@@ -30,8 +30,8 @@ Partial Class Form1
         Me.lblOutput = New System.Windows.Forms.Label()
         Me.txtName = New System.Windows.Forms.TextBox()
         Me.txtFirst = New System.Windows.Forms.TextBox()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
-        Me.TextBox4 = New System.Windows.Forms.TextBox()
+        Me.txtSecond = New System.Windows.Forms.TextBox()
+        Me.txtThird = New System.Windows.Forms.TextBox()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
         Me.GroupBox1.SuspendLayout()
         Me.SuspendLayout()
@@ -50,7 +50,7 @@ Partial Class Form1
         Me.Label2.AutoSize = True
         Me.Label2.Location = New System.Drawing.Point(6, 21)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(59, 13)
+        Me.Label2.Size = New System.Drawing.Size(71, 13)
         Me.Label2.TabIndex = 1
         Me.Label2.Text = "First grade:"
         '
@@ -59,7 +59,7 @@ Partial Class Form1
         Me.Label3.AutoSize = True
         Me.Label3.Location = New System.Drawing.Point(6, 47)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(77, 13)
+        Me.Label3.Size = New System.Drawing.Size(90, 13)
         Me.Label3.TabIndex = 2
         Me.Label3.Text = "Second grade:"
         '
@@ -68,7 +68,7 @@ Partial Class Form1
         Me.Label4.AutoSize = True
         Me.Label4.Location = New System.Drawing.Point(6, 73)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(64, 13)
+        Me.Label4.Size = New System.Drawing.Size(76, 13)
         Me.Label4.TabIndex = 3
         Me.Label4.Text = "Third grade:"
         '
@@ -77,7 +77,7 @@ Partial Class Form1
         Me.btnCalc.Location = New System.Drawing.Point(15, 137)
         Me.btnCalc.Name = "btnCalc"
         Me.btnCalc.Size = New System.Drawing.Size(151, 23)
-        Me.btnCalc.TabIndex = 4
+        Me.btnCalc.TabIndex = 2
         Me.btnCalc.Text = "Determine Semester Grade"
         Me.btnCalc.UseVisualStyleBackColor = True
         '
@@ -95,52 +95,51 @@ Partial Class Form1
         Me.txtName.Location = New System.Drawing.Point(56, 6)
         Me.txtName.Name = "txtName"
         Me.txtName.Size = New System.Drawing.Size(110, 20)
-        Me.txtName.TabIndex = 6
+        Me.txtName.TabIndex = 0
         '
         'txtFirst
         '
         Me.txtFirst.Location = New System.Drawing.Point(103, 19)
         Me.txtFirst.Name = "txtFirst"
         Me.txtFirst.Size = New System.Drawing.Size(32, 20)
-        Me.txtFirst.TabIndex = 7
-        Me.txtFirst.Text = "100"
+        Me.txtFirst.TabIndex = 0
         Me.txtFirst.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
-        'TextBox3
+        'txtSecond
         '
-        Me.TextBox3.Location = New System.Drawing.Point(103, 45)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(32, 20)
-        Me.TextBox3.TabIndex = 8
-        Me.TextBox3.Text = "100"
-        Me.TextBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txtSecond.Location = New System.Drawing.Point(103, 45)
+        Me.txtSecond.Name = "txtSecond"
+        Me.txtSecond.Size = New System.Drawing.Size(32, 20)
+        Me.txtSecond.TabIndex = 1
+        Me.txtSecond.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
-        'TextBox4
+        'txtThird
         '
-        Me.TextBox4.Location = New System.Drawing.Point(103, 71)
-        Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(32, 20)
-        Me.TextBox4.TabIndex = 9
-        Me.TextBox4.Text = "100"
-        Me.TextBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txtThird.Location = New System.Drawing.Point(103, 71)
+        Me.txtThird.Name = "txtThird"
+        Me.txtThird.Size = New System.Drawing.Size(32, 20)
+        Me.txtThird.TabIndex = 2
+        Me.txtThird.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'GroupBox1
         '
         Me.GroupBox1.Controls.Add(Me.Label2)
-        Me.GroupBox1.Controls.Add(Me.TextBox4)
+        Me.GroupBox1.Controls.Add(Me.txtThird)
         Me.GroupBox1.Controls.Add(Me.Label3)
-        Me.GroupBox1.Controls.Add(Me.TextBox3)
+        Me.GroupBox1.Controls.Add(Me.txtSecond)
         Me.GroupBox1.Controls.Add(Me.Label4)
         Me.GroupBox1.Controls.Add(Me.txtFirst)
+        Me.GroupBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.GroupBox1.Location = New System.Drawing.Point(15, 32)
         Me.GroupBox1.Name = "GroupBox1"
         Me.GroupBox1.Size = New System.Drawing.Size(151, 99)
-        Me.GroupBox1.TabIndex = 10
+        Me.GroupBox1.TabIndex = 1
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Grades:"
         '
         'Form1
         '
+        Me.AcceptButton = Me.btnCalc
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(178, 198)
@@ -149,6 +148,8 @@ Partial Class Form1
         Me.Controls.Add(Me.lblOutput)
         Me.Controls.Add(Me.btnCalc)
         Me.Controls.Add(Me.Label1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
+        Me.MaximizeBox = False
         Me.Name = "Form1"
         Me.Text = "Grades"
         Me.GroupBox1.ResumeLayout(False)
@@ -166,7 +167,7 @@ Partial Class Form1
     Friend WithEvents lblOutput As Label
     Friend WithEvents txtName As TextBox
     Friend WithEvents txtFirst As TextBox
-    Friend WithEvents TextBox3 As TextBox
-    Friend WithEvents TextBox4 As TextBox
+    Friend WithEvents txtSecond As TextBox
+    Friend WithEvents txtThird As TextBox
     Friend WithEvents GroupBox1 As GroupBox
 End Class
