@@ -1,0 +1,44 @@
+C:\Users\student\AppData\Local\Temporary Projects\PriceCalcGUI\bin\Debug\PriceCalcGUI.exe.config
+C:\Users\student\AppData\Local\Temporary Projects\PriceCalcGUI\bin\Debug\PriceCalcGUI.exe
+C:\Users\student\AppData\Local\Temporary Projects\PriceCalcGUI\bin\Debug\PriceCalcGUI.pdb
+C:\Users\student\AppData\Local\Temporary Projects\PriceCalcGUI\bin\Debug\PriceCalcGUI.xml
+C:\Users\student\AppData\Local\Temporary Projects\PriceCalcGUI\obj\Debug\PriceCalcGUI.vbprojResolveAssemblyReference.cache
+C:\Users\student\AppData\Local\Temporary Projects\PriceCalcGUI\obj\Debug\PriceCalcGUI.Form1.resources
+C:\Users\student\AppData\Local\Temporary Projects\PriceCalcGUI\obj\Debug\PriceCalcGUI.Resources.resources
+C:\Users\student\AppData\Local\Temporary Projects\PriceCalcGUI\obj\Debug\PriceCalcGUI.vbproj.GenerateResource.Cache
+C:\Users\student\AppData\Local\Temporary Projects\PriceCalcGUI\obj\Debug\PriceCalcGUI.exe
+C:\Users\student\AppData\Local\Temporary Projects\PriceCalcGUI\obj\Debug\PriceCalcGUI.xml
+C:\Users\student\AppData\Local\Temporary Projects\PriceCalcGUI\obj\Debug\PriceCalcGUI.pdb
+D:\_CIS184\PriceCalcGUI\PriceCalcGUI\bin\Debug\PriceCalcGUI.exe.config
+D:\_CIS184\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.exe
+D:\_CIS184\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.xml
+D:\_CIS184\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.pdb
+E:\_CIS184\PriceCalcGUI\PriceCalcGUI\bin\Debug\PriceCalcGUI.exe.config
+E:\_CIS184\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.exe
+E:\_CIS184\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.xml
+E:\_CIS184\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.pdb
+E:\_CIS184\PriceCalcGUI\PriceCalcGUI\bin\Debug\PriceCalcGUI.exe
+E:\_CIS184\PriceCalcGUI\PriceCalcGUI\bin\Debug\PriceCalcGUI.pdb
+E:\_CIS184\PriceCalcGUI\PriceCalcGUI\bin\Debug\PriceCalcGUI.xml
+E:\_CIS184\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.vbprojResolveAssemblyReference.cache
+E:\_CIS184\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.Form1.resources
+E:\_CIS184\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.Resources.resources
+E:\_CIS184\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.vbproj.GenerateResource.Cache
+D:\_CIS184\PriceCalcGUI\PriceCalcGUI\bin\Debug\PriceCalcGUI.exe
+D:\_CIS184\PriceCalcGUI\PriceCalcGUI\bin\Debug\PriceCalcGUI.pdb
+D:\_CIS184\PriceCalcGUI\PriceCalcGUI\bin\Debug\PriceCalcGUI.xml
+D:\_CIS184\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.vbprojResolveAssemblyReference.cache
+D:\_CIS184\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.Form1.resources
+D:\_CIS184\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.Resources.resources
+D:\_CIS184\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.vbproj.GenerateResource.Cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\PriceCalcGUI_090816\PriceCalcGUI\PriceCalcGUI\bin\Debug\PriceCalcGUI.exe.config
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\PriceCalcGUI_090816\PriceCalcGUI\PriceCalcGUI\bin\Debug\PriceCalcGUI.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\PriceCalcGUI_090816\PriceCalcGUI\PriceCalcGUI\bin\Debug\PriceCalcGUI.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\PriceCalcGUI_090816\PriceCalcGUI\PriceCalcGUI\bin\Debug\PriceCalcGUI.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\PriceCalcGUI_090816\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.vbprojResolveAssemblyReference.cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\PriceCalcGUI_090816\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.Form1.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\PriceCalcGUI_090816\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.Resources.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\PriceCalcGUI_090816\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.vbproj.GenerateResource.Cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\PriceCalcGUI_090816\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\PriceCalcGUI_090816\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\PriceCalcGUI_090816\PriceCalcGUI\PriceCalcGUI\obj\Debug\PriceCalcGUI.pdb

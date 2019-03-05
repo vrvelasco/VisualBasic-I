@@ -1,0 +1,36 @@
+C:\Users\student\AppData\Local\Temporary Projects\TempConv\bin\Debug\TempConv.exe.config
+C:\Users\student\AppData\Local\Temporary Projects\TempConv\bin\Debug\TempConv.exe
+C:\Users\student\AppData\Local\Temporary Projects\TempConv\bin\Debug\TempConv.pdb
+C:\Users\student\AppData\Local\Temporary Projects\TempConv\bin\Debug\TempConv.xml
+C:\Users\student\AppData\Local\Temporary Projects\TempConv\obj\Debug\TempConv.Form1.resources
+C:\Users\student\AppData\Local\Temporary Projects\TempConv\obj\Debug\TempConv.Resources.resources
+C:\Users\student\AppData\Local\Temporary Projects\TempConv\obj\Debug\TempConv.vbproj.GenerateResource.Cache
+C:\Users\student\AppData\Local\Temporary Projects\TempConv\obj\Debug\TempConv.exe
+C:\Users\student\AppData\Local\Temporary Projects\TempConv\obj\Debug\TempConv.xml
+C:\Users\student\AppData\Local\Temporary Projects\TempConv\obj\Debug\TempConv.pdb
+D:\_CIS184\TempConv\TempConv\bin\Debug\TempConv.exe.config
+D:\_CIS184\TempConv\TempConv\obj\Debug\TempConv.exe
+D:\_CIS184\TempConv\TempConv\obj\Debug\TempConv.xml
+D:\_CIS184\TempConv\TempConv\obj\Debug\TempConv.pdb
+E:\_CIS184\TempConv\TempConv\bin\Debug\TempConv.exe.config
+E:\_CIS184\TempConv\TempConv\obj\Debug\TempConv.exe
+E:\_CIS184\TempConv\TempConv\obj\Debug\TempConv.xml
+E:\_CIS184\TempConv\TempConv\obj\Debug\TempConv.pdb
+D:\_CIS184\TempConv\TempConv\bin\Debug\TempConv.exe
+D:\_CIS184\TempConv\TempConv\bin\Debug\TempConv.pdb
+D:\_CIS184\TempConv\TempConv\bin\Debug\TempConv.xml
+D:\_CIS184\TempConv\TempConv\obj\Debug\TempConv.vbprojResolveAssemblyReference.cache
+D:\_CIS184\TempConv\TempConv\obj\Debug\TempConv.Form1.resources
+D:\_CIS184\TempConv\TempConv\obj\Debug\TempConv.Resources.resources
+D:\_CIS184\TempConv\TempConv\obj\Debug\TempConv.vbproj.GenerateResource.Cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\TempConv_100416\TempConv\TempConv\bin\Debug\TempConv.exe.config
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\TempConv_100416\TempConv\TempConv\bin\Debug\TempConv.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\TempConv_100416\TempConv\TempConv\bin\Debug\TempConv.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\TempConv_100416\TempConv\TempConv\bin\Debug\TempConv.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\TempConv_100416\TempConv\TempConv\obj\Debug\TempConv.vbprojResolveAssemblyReference.cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\TempConv_100416\TempConv\TempConv\obj\Debug\TempConv.Form1.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\TempConv_100416\TempConv\TempConv\obj\Debug\TempConv.Resources.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\TempConv_100416\TempConv\TempConv\obj\Debug\TempConv.vbproj.GenerateResource.Cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\TempConv_100416\TempConv\TempConv\obj\Debug\TempConv.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\TempConv_100416\TempConv\TempConv\obj\Debug\TempConv.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Feb 28\TempConv_100416\TempConv\TempConv\obj\Debug\TempConv.pdb

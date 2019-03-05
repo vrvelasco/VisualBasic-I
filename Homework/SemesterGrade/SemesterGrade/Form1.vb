@@ -1,4 +1,4 @@
-﻿Option Strict On
+﻿Option Strict On ' *** Victor Velasco ***
 Public Class Form1
     Private Sub btnCalc_Click(sender As Object, e As EventArgs) Handles btnCalc.Click
         If Not txtName.Text = "" Then ' Name field empty?
