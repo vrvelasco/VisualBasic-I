@@ -1,0 +1,11 @@
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 21\MemorizeList\MemorizeList\bin\Debug\MemorizeList.exe.config
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 21\MemorizeList\MemorizeList\bin\Debug\MemorizeList.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 21\MemorizeList\MemorizeList\bin\Debug\MemorizeList.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 21\MemorizeList\MemorizeList\bin\Debug\MemorizeList.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 21\MemorizeList\MemorizeList\obj\Debug\MemorizeList.vbprojResolveAssemblyReference.cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 21\MemorizeList\MemorizeList\obj\Debug\MemorizeList.Form1.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 21\MemorizeList\MemorizeList\obj\Debug\MemorizeList.Resources.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 21\MemorizeList\MemorizeList\obj\Debug\MemorizeList.vbproj.GenerateResource.Cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 21\MemorizeList\MemorizeList\obj\Debug\MemorizeList.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 21\MemorizeList\MemorizeList\obj\Debug\MemorizeList.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 21\MemorizeList\MemorizeList\obj\Debug\MemorizeList.pdb

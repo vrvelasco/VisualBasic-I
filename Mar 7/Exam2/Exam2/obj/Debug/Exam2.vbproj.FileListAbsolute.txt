@@ -1,0 +1,11 @@
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 7\Exam2\Exam2\bin\Debug\Exam2.exe.config
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 7\Exam2\Exam2\bin\Debug\Exam2.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 7\Exam2\Exam2\bin\Debug\Exam2.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 7\Exam2\Exam2\bin\Debug\Exam2.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 7\Exam2\Exam2\obj\Debug\Exam2.vbprojResolveAssemblyReference.cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 7\Exam2\Exam2\obj\Debug\Exam2.Form1.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 7\Exam2\Exam2\obj\Debug\Exam2.Resources.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 7\Exam2\Exam2\obj\Debug\Exam2.vbproj.GenerateResource.Cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 7\Exam2\Exam2\obj\Debug\Exam2.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 7\Exam2\Exam2\obj\Debug\Exam2.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 7\Exam2\Exam2\obj\Debug\Exam2.pdb
