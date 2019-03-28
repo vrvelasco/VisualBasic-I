@@ -1,0 +1,12 @@
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SumofFive\SumofFive\bin\Debug\SumofFive.exe.config
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SumofFive\SumofFive\bin\Debug\SumofFive.exe
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SumofFive\SumofFive\bin\Debug\SumofFive.pdb
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SumofFive\SumofFive\bin\Debug\SumofFive.xml
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SumofFive\SumofFive\obj\Debug\SumofFive.vbprojAssemblyReference.cache
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SumofFive\SumofFive\obj\Debug\SumofFive.Form1.resources
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SumofFive\SumofFive\obj\Debug\SumofFive.Resources.resources
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SumofFive\SumofFive\obj\Debug\SumofFive.vbproj.GenerateResource.cache
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SumofFive\SumofFive\obj\Debug\SumofFive.vbproj.CoreCompileInputs.cache
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SumofFive\SumofFive\obj\Debug\SumofFive.exe
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SumofFive\SumofFive\obj\Debug\SumofFive.xml
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\SumofFive\SumofFive\obj\Debug\SumofFive.pdb

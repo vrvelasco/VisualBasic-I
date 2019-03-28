@@ -29,6 +29,7 @@ Partial Class Form1
         '
         'btnEnter
         '
+        Me.btnEnter.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnEnter.Location = New System.Drawing.Point(12, 12)
         Me.btnEnter.Name = "btnEnter"
         Me.btnEnter.Size = New System.Drawing.Size(75, 23)
@@ -38,7 +39,8 @@ Partial Class Form1
         '
         'btnSum
         '
-        Me.btnSum.Location = New System.Drawing.Point(93, 12)
+        Me.btnSum.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnSum.Location = New System.Drawing.Point(380, 12)
         Me.btnSum.Name = "btnSum"
         Me.btnSum.Size = New System.Drawing.Size(75, 23)
         Me.btnSum.TabIndex = 1
@@ -48,17 +50,19 @@ Partial Class Form1
         'lblOutput
         '
         Me.lblOutput.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-        Me.lblOutput.Location = New System.Drawing.Point(12, 38)
+        Me.lblOutput.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblOutput.Location = New System.Drawing.Point(93, 12)
         Me.lblOutput.Name = "lblOutput"
-        Me.lblOutput.Size = New System.Drawing.Size(156, 23)
+        Me.lblOutput.Size = New System.Drawing.Size(281, 23)
         Me.lblOutput.TabIndex = 2
-        Me.lblOutput.Text = "Label1"
+        Me.lblOutput.Text = "← Click the ""Enter"" button to begin..."
+        Me.lblOutput.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(185, 72)
+        Me.ClientSize = New System.Drawing.Size(466, 43)
         Me.Controls.Add(Me.lblOutput)
         Me.Controls.Add(Me.btnSum)
         Me.Controls.Add(Me.btnEnter)
