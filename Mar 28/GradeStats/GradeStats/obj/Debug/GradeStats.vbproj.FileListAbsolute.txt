@@ -1,0 +1,11 @@
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\GradeStats\GradeStats\bin\Debug\GradeStats.exe.config
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\GradeStats\GradeStats\bin\Debug\GradeStats.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\GradeStats\GradeStats\bin\Debug\GradeStats.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\GradeStats\GradeStats\bin\Debug\GradeStats.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\GradeStats\GradeStats\obj\Debug\GradeStats.vbprojResolveAssemblyReference.cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\GradeStats\GradeStats\obj\Debug\GradeStats.Form1.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\GradeStats\GradeStats\obj\Debug\GradeStats.Resources.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\GradeStats\GradeStats\obj\Debug\GradeStats.vbproj.GenerateResource.Cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\GradeStats\GradeStats\obj\Debug\GradeStats.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\GradeStats\GradeStats\obj\Debug\GradeStats.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\GradeStats\GradeStats\obj\Debug\GradeStats.pdb

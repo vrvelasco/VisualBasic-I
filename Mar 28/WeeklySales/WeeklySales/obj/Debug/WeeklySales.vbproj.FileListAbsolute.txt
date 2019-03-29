@@ -1,0 +1,11 @@
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\WeeklySales\WeeklySales\bin\Debug\WeeklySales.exe.config
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\WeeklySales\WeeklySales\bin\Debug\WeeklySales.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\WeeklySales\WeeklySales\bin\Debug\WeeklySales.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\WeeklySales\WeeklySales\bin\Debug\WeeklySales.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\WeeklySales\WeeklySales\obj\Debug\WeeklySales.vbprojResolveAssemblyReference.cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\WeeklySales\WeeklySales\obj\Debug\WeeklySales.Form1.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\WeeklySales\WeeklySales\obj\Debug\WeeklySales.Resources.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\WeeklySales\WeeklySales\obj\Debug\WeeklySales.vbproj.GenerateResource.Cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\WeeklySales\WeeklySales\obj\Debug\WeeklySales.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\WeeklySales\WeeklySales\obj\Debug\WeeklySales.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Mar 28\WeeklySales\WeeklySales\obj\Debug\WeeklySales.pdb
