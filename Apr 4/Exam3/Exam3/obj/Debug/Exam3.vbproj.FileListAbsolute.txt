@@ -1,0 +1,22 @@
+C:\Users\student\AppData\Local\Temporary Projects\Exam3\bin\Debug\Exam3.exe.config
+C:\Users\student\AppData\Local\Temporary Projects\Exam3\bin\Debug\Exam3.exe
+C:\Users\student\AppData\Local\Temporary Projects\Exam3\bin\Debug\Exam3.pdb
+C:\Users\student\AppData\Local\Temporary Projects\Exam3\bin\Debug\Exam3.xml
+C:\Users\student\AppData\Local\Temporary Projects\Exam3\obj\Debug\Exam3.vbprojResolveAssemblyReference.cache
+C:\Users\student\AppData\Local\Temporary Projects\Exam3\obj\Debug\Exam3.Form1.resources
+C:\Users\student\AppData\Local\Temporary Projects\Exam3\obj\Debug\Exam3.Resources.resources
+C:\Users\student\AppData\Local\Temporary Projects\Exam3\obj\Debug\Exam3.vbproj.GenerateResource.Cache
+C:\Users\student\AppData\Local\Temporary Projects\Exam3\obj\Debug\Exam3.exe
+C:\Users\student\AppData\Local\Temporary Projects\Exam3\obj\Debug\Exam3.xml
+C:\Users\student\AppData\Local\Temporary Projects\Exam3\obj\Debug\Exam3.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 4\Exam3\Exam3\bin\Debug\Exam3.exe.config
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 4\Exam3\Exam3\bin\Debug\Exam3.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 4\Exam3\Exam3\bin\Debug\Exam3.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 4\Exam3\Exam3\bin\Debug\Exam3.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 4\Exam3\Exam3\obj\Debug\Exam3.vbprojResolveAssemblyReference.cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 4\Exam3\Exam3\obj\Debug\Exam3.Form1.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 4\Exam3\Exam3\obj\Debug\Exam3.Resources.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 4\Exam3\Exam3\obj\Debug\Exam3.vbproj.GenerateResource.Cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 4\Exam3\Exam3\obj\Debug\Exam3.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 4\Exam3\Exam3\obj\Debug\Exam3.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 4\Exam3\Exam3\obj\Debug\Exam3.pdb
