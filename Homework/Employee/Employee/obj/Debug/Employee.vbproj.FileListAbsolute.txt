@@ -1,0 +1,12 @@
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Employee\Employee\bin\Debug\Employee.exe.config
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Employee\Employee\bin\Debug\Employee.exe
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Employee\Employee\bin\Debug\Employee.pdb
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Employee\Employee\bin\Debug\Employee.xml
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Employee\Employee\obj\Debug\Employee.vbprojAssemblyReference.cache
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Employee\Employee\obj\Debug\Employee.Form1.resources
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Employee\Employee\obj\Debug\Employee.Resources.resources
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Employee\Employee\obj\Debug\Employee.vbproj.GenerateResource.cache
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Employee\Employee\obj\Debug\Employee.vbproj.CoreCompileInputs.cache
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Employee\Employee\obj\Debug\Employee.exe
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Employee\Employee\obj\Debug\Employee.xml
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Employee\Employee\obj\Debug\Employee.pdb

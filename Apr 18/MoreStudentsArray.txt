@@ -1,0 +1,8 @@
+        students(2) = New Student("Simon", "Smith", 15)
+        students(3) = New Student("Fanny", "Fargo")
+        students(4) = New Student("Pete", "Smith", 9)
+        students(5) = New Student("Bill", "Bailey")
+        students(6) = New Student("John", "Long")
+        students(7) = New Student("Van", "Hill", 36)
+        students(8) = New Student("Cindy", "Jones")
+        students(9) = New Student("Marcy", "Michaels", 18)
