@@ -1,0 +1,9 @@
+New Student("Simon", "Smith", 15),
+New Student("Fanny", "Fargo"),
+New Student("Pete", "Smith", 9),
+New Student("Bill", "Bailey"),
+New Student("John", "Long"),
+New Student("Van", "Hill", 36),
+New Student("Cindy", "Jones"),
+New Student("Sean", "Childs"),
+New Student("Marcy", "Michaels", 18)

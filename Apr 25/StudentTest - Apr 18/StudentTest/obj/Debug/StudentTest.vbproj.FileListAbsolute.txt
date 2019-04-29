@@ -1,0 +1,22 @@
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 18\StudentTest\StudentTest\bin\Debug\StudentTest.exe.config
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 18\StudentTest\StudentTest\bin\Debug\StudentTest.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 18\StudentTest\StudentTest\bin\Debug\StudentTest.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 18\StudentTest\StudentTest\bin\Debug\StudentTest.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 18\StudentTest\StudentTest\obj\Debug\StudentTest.vbprojResolveAssemblyReference.cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 18\StudentTest\StudentTest\obj\Debug\StudentTest.Form1.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 18\StudentTest\StudentTest\obj\Debug\StudentTest.Resources.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 18\StudentTest\StudentTest\obj\Debug\StudentTest.vbproj.GenerateResource.Cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 18\StudentTest\StudentTest\obj\Debug\StudentTest.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 18\StudentTest\StudentTest\obj\Debug\StudentTest.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 18\StudentTest\StudentTest\obj\Debug\StudentTest.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 25\StudentTest - Apr 18\StudentTest\bin\Debug\StudentTest.exe.config
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 25\StudentTest - Apr 18\StudentTest\bin\Debug\StudentTest.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 25\StudentTest - Apr 18\StudentTest\bin\Debug\StudentTest.pdb
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 25\StudentTest - Apr 18\StudentTest\bin\Debug\StudentTest.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 25\StudentTest - Apr 18\StudentTest\obj\Debug\StudentTest.vbprojResolveAssemblyReference.cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 25\StudentTest - Apr 18\StudentTest\obj\Debug\StudentTest.Form1.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 25\StudentTest - Apr 18\StudentTest\obj\Debug\StudentTest.Resources.resources
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 25\StudentTest - Apr 18\StudentTest\obj\Debug\StudentTest.vbproj.GenerateResource.Cache
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 25\StudentTest - Apr 18\StudentTest\obj\Debug\StudentTest.exe
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 25\StudentTest - Apr 18\StudentTest\obj\Debug\StudentTest.xml
+E:\Spring 2019\CIS 184 - Visual Basic Programming I\Apr 25\StudentTest - Apr 18\StudentTest\obj\Debug\StudentTest.pdb
