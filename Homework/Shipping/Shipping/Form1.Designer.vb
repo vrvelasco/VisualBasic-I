@@ -23,23 +23,23 @@ Partial Class Form1
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
-        Me.lblNumPackage = New System.Windows.Forms.Label()
-        Me.Label1 = New System.Windows.Forms.Label()
-        Me.Label2 = New System.Windows.Forms.Label()
-        Me.Label3 = New System.Windows.Forms.Label()
-        Me.txtID = New System.Windows.Forms.TextBox()
-        Me.txtCity = New System.Windows.Forms.TextBox()
-        Me.txtState = New System.Windows.Forms.TextBox()
         Me.btnFirst = New System.Windows.Forms.Button()
         Me.btnPrevious = New System.Windows.Forms.Button()
         Me.btnNext = New System.Windows.Forms.Button()
         Me.btnLast = New System.Windows.Forms.Button()
+        Me.txtID = New System.Windows.Forms.TextBox()
+        Me.txtCity = New System.Windows.Forms.TextBox()
+        Me.txtState = New System.Windows.Forms.TextBox()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.lblNumPackage = New System.Windows.Forms.Label()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
-        Me.Label4 = New System.Windows.Forms.Label()
-        Me.txtStateSearch = New System.Windows.Forms.TextBox()
-        Me.btnSearch = New System.Windows.Forms.Button()
-        Me.lstResults = New System.Windows.Forms.ListBox()
         Me.Label5 = New System.Windows.Forms.Label()
+        Me.lstResults = New System.Windows.Forms.ListBox()
+        Me.btnSearch = New System.Windows.Forms.Button()
+        Me.txtStateSearch = New System.Windows.Forms.TextBox()
+        Me.Label4 = New System.Windows.Forms.Label()
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.SuspendLayout()
@@ -60,18 +60,70 @@ Partial Class Form1
         Me.GroupBox1.Location = New System.Drawing.Point(12, 12)
         Me.GroupBox1.Name = "GroupBox1"
         Me.GroupBox1.Size = New System.Drawing.Size(273, 184)
-        Me.GroupBox1.TabIndex = 0
+        Me.GroupBox1.TabIndex = 1
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Package Information"
         '
-        'lblNumPackage
+        'btnFirst
         '
-        Me.lblNumPackage.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.lblNumPackage.Location = New System.Drawing.Point(11, 31)
-        Me.lblNumPackage.Name = "lblNumPackage"
-        Me.lblNumPackage.Size = New System.Drawing.Size(138, 25)
-        Me.lblNumPackage.TabIndex = 0
-        Me.lblNumPackage.Text = "Package #"
+        Me.btnFirst.Location = New System.Drawing.Point(7, 150)
+        Me.btnFirst.Name = "btnFirst"
+        Me.btnFirst.Size = New System.Drawing.Size(60, 23)
+        Me.btnFirst.TabIndex = 0
+        Me.btnFirst.Text = "First"
+        Me.btnFirst.UseVisualStyleBackColor = True
+        '
+        'btnPrevious
+        '
+        Me.btnPrevious.Location = New System.Drawing.Point(73, 150)
+        Me.btnPrevious.Name = "btnPrevious"
+        Me.btnPrevious.Size = New System.Drawing.Size(60, 23)
+        Me.btnPrevious.TabIndex = 1
+        Me.btnPrevious.Text = "Previous"
+        Me.btnPrevious.UseVisualStyleBackColor = True
+        '
+        'btnNext
+        '
+        Me.btnNext.Location = New System.Drawing.Point(139, 150)
+        Me.btnNext.Name = "btnNext"
+        Me.btnNext.Size = New System.Drawing.Size(60, 23)
+        Me.btnNext.TabIndex = 2
+        Me.btnNext.Text = "Next"
+        Me.btnNext.UseVisualStyleBackColor = True
+        '
+        'btnLast
+        '
+        Me.btnLast.Location = New System.Drawing.Point(205, 150)
+        Me.btnLast.Name = "btnLast"
+        Me.btnLast.Size = New System.Drawing.Size(60, 23)
+        Me.btnLast.TabIndex = 3
+        Me.btnLast.Text = "Last"
+        Me.btnLast.UseVisualStyleBackColor = True
+        '
+        'txtID
+        '
+        Me.txtID.Location = New System.Drawing.Point(54, 58)
+        Me.txtID.Name = "txtID"
+        Me.txtID.ReadOnly = True
+        Me.txtID.Size = New System.Drawing.Size(100, 20)
+        Me.txtID.TabIndex = 4
+        '
+        'txtCity
+        '
+        Me.txtCity.Location = New System.Drawing.Point(54, 84)
+        Me.txtCity.Name = "txtCity"
+        Me.txtCity.ReadOnly = True
+        Me.txtCity.Size = New System.Drawing.Size(210, 20)
+        Me.txtCity.TabIndex = 5
+        '
+        'txtState
+        '
+        Me.txtState.Location = New System.Drawing.Point(54, 110)
+        Me.txtState.MaxLength = 2
+        Me.txtState.Name = "txtState"
+        Me.txtState.ReadOnly = True
+        Me.txtState.Size = New System.Drawing.Size(29, 20)
+        Me.txtState.TabIndex = 6
         '
         'Label1
         '
@@ -100,63 +152,14 @@ Partial Class Form1
         Me.Label3.Text = "State:"
         Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
-        'txtID
+        'lblNumPackage
         '
-        Me.txtID.Location = New System.Drawing.Point(54, 58)
-        Me.txtID.Name = "txtID"
-        Me.txtID.Size = New System.Drawing.Size(100, 20)
-        Me.txtID.TabIndex = 1
-        '
-        'txtCity
-        '
-        Me.txtCity.Location = New System.Drawing.Point(54, 84)
-        Me.txtCity.Name = "txtCity"
-        Me.txtCity.Size = New System.Drawing.Size(210, 20)
-        Me.txtCity.TabIndex = 2
-        '
-        'txtState
-        '
-        Me.txtState.Location = New System.Drawing.Point(54, 110)
-        Me.txtState.MaxLength = 2
-        Me.txtState.Name = "txtState"
-        Me.txtState.Size = New System.Drawing.Size(29, 20)
-        Me.txtState.TabIndex = 3
-        '
-        'btnFirst
-        '
-        Me.btnFirst.Location = New System.Drawing.Point(7, 150)
-        Me.btnFirst.Name = "btnFirst"
-        Me.btnFirst.Size = New System.Drawing.Size(60, 23)
-        Me.btnFirst.TabIndex = 1
-        Me.btnFirst.Text = "First"
-        Me.btnFirst.UseVisualStyleBackColor = True
-        '
-        'btnPrevious
-        '
-        Me.btnPrevious.Location = New System.Drawing.Point(73, 150)
-        Me.btnPrevious.Name = "btnPrevious"
-        Me.btnPrevious.Size = New System.Drawing.Size(60, 23)
-        Me.btnPrevious.TabIndex = 2
-        Me.btnPrevious.Text = "Previous"
-        Me.btnPrevious.UseVisualStyleBackColor = True
-        '
-        'btnNext
-        '
-        Me.btnNext.Location = New System.Drawing.Point(139, 150)
-        Me.btnNext.Name = "btnNext"
-        Me.btnNext.Size = New System.Drawing.Size(60, 23)
-        Me.btnNext.TabIndex = 3
-        Me.btnNext.Text = "Next"
-        Me.btnNext.UseVisualStyleBackColor = True
-        '
-        'btnLast
-        '
-        Me.btnLast.Location = New System.Drawing.Point(205, 150)
-        Me.btnLast.Name = "btnLast"
-        Me.btnLast.Size = New System.Drawing.Size(60, 23)
-        Me.btnLast.TabIndex = 4
-        Me.btnLast.Text = "Last"
-        Me.btnLast.UseVisualStyleBackColor = True
+        Me.lblNumPackage.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.lblNumPackage.Location = New System.Drawing.Point(11, 31)
+        Me.lblNumPackage.Name = "lblNumPackage"
+        Me.lblNumPackage.Size = New System.Drawing.Size(138, 25)
+        Me.lblNumPackage.TabIndex = 0
+        Me.lblNumPackage.Text = "Package #"
         '
         'GroupBox2
         '
@@ -168,43 +171,9 @@ Partial Class Form1
         Me.GroupBox2.Location = New System.Drawing.Point(291, 12)
         Me.GroupBox2.Name = "GroupBox2"
         Me.GroupBox2.Size = New System.Drawing.Size(169, 184)
-        Me.GroupBox2.TabIndex = 1
+        Me.GroupBox2.TabIndex = 0
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "Search By State"
-        '
-        'Label4
-        '
-        Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(6, 31)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(35, 13)
-        Me.Label4.TabIndex = 0
-        Me.Label4.Text = "State:"
-        '
-        'txtStateSearch
-        '
-        Me.txtStateSearch.Location = New System.Drawing.Point(44, 28)
-        Me.txtStateSearch.MaxLength = 2
-        Me.txtStateSearch.Name = "txtStateSearch"
-        Me.txtStateSearch.Size = New System.Drawing.Size(29, 20)
-        Me.txtStateSearch.TabIndex = 4
-        '
-        'btnSearch
-        '
-        Me.btnSearch.Location = New System.Drawing.Point(83, 26)
-        Me.btnSearch.Name = "btnSearch"
-        Me.btnSearch.Size = New System.Drawing.Size(75, 23)
-        Me.btnSearch.TabIndex = 5
-        Me.btnSearch.Text = "Search"
-        Me.btnSearch.UseVisualStyleBackColor = True
-        '
-        'lstResults
-        '
-        Me.lstResults.FormattingEnabled = True
-        Me.lstResults.Location = New System.Drawing.Point(9, 91)
-        Me.lstResults.Name = "lstResults"
-        Me.lstResults.Size = New System.Drawing.Size(149, 82)
-        Me.lstResults.TabIndex = 6
         '
         'Label5
         '
@@ -215,8 +184,43 @@ Partial Class Form1
         Me.Label5.Text = "Package Search Results:"
         Me.Label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
+        'lstResults
+        '
+        Me.lstResults.FormattingEnabled = True
+        Me.lstResults.Location = New System.Drawing.Point(9, 91)
+        Me.lstResults.Name = "lstResults"
+        Me.lstResults.Size = New System.Drawing.Size(149, 82)
+        Me.lstResults.TabIndex = 2
+        '
+        'btnSearch
+        '
+        Me.btnSearch.Location = New System.Drawing.Point(83, 26)
+        Me.btnSearch.Name = "btnSearch"
+        Me.btnSearch.Size = New System.Drawing.Size(75, 23)
+        Me.btnSearch.TabIndex = 1
+        Me.btnSearch.Text = "Search"
+        Me.btnSearch.UseVisualStyleBackColor = True
+        '
+        'txtStateSearch
+        '
+        Me.txtStateSearch.Location = New System.Drawing.Point(44, 28)
+        Me.txtStateSearch.MaxLength = 2
+        Me.txtStateSearch.Name = "txtStateSearch"
+        Me.txtStateSearch.Size = New System.Drawing.Size(29, 20)
+        Me.txtStateSearch.TabIndex = 0
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Location = New System.Drawing.Point(6, 31)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(35, 13)
+        Me.Label4.TabIndex = 0
+        Me.Label4.Text = "State:"
+        '
         'Form1
         '
+        Me.AcceptButton = Me.btnSearch
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(474, 205)
