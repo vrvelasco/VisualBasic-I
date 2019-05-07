@@ -1,0 +1,12 @@
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Shipping\Shipping\bin\Debug\Shipping.exe.config
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Shipping\Shipping\bin\Debug\Shipping.exe
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Shipping\Shipping\bin\Debug\Shipping.pdb
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Shipping\Shipping\bin\Debug\Shipping.xml
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Shipping\Shipping\obj\Debug\Shipping.vbprojAssemblyReference.cache
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Shipping\Shipping\obj\Debug\Shipping.Form1.resources
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Shipping\Shipping\obj\Debug\Shipping.Resources.resources
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Shipping\Shipping\obj\Debug\Shipping.vbproj.GenerateResource.cache
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Shipping\Shipping\obj\Debug\Shipping.vbproj.CoreCompileInputs.cache
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Shipping\Shipping\obj\Debug\Shipping.exe
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Shipping\Shipping\obj\Debug\Shipping.xml
+D:\Spring 2019\CIS 184 - Visual Basic Programming I\Homework\Shipping\Shipping\obj\Debug\Shipping.pdb
